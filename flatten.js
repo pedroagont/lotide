@@ -20,6 +20,6 @@ module.exports = flatten;
 // TEST CASES
 // assertArraysEqual(flatten([1, 2, [3, 4], 5, [6]]), [1, 2, 3, 4, 5, 6]);
 // assertArraysEqual(
-//   flatten(['testing', 'strings', ['and', 123], 'numbers', ['123']]),
+//   flatten(['testing', ['strings', 'and'], 123, 'numbers', ['123']]),
 //   ['testing', 'strings', 'and', 123, 'numbers', '123']
 // );
