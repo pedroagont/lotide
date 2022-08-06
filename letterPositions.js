@@ -1,5 +1,5 @@
 // REQUIREMENTS
-const assertArraysEqual = require('./assertArraysEqual');
+// const assertArraysEqual = require('./assertArraysEqual');
 
 // FUNCTION IMPLEMENTATION
 const letterPositions = string => {
@@ -20,9 +20,9 @@ const letterPositions = string => {
 module.exports = letterPositions;
 
 // TEST CASES
-const result1 = letterPositions('hello');
-
-assertArraysEqual(result1['h'], [0]);
-assertArraysEqual(result1['e'], [1]);
-assertArraysEqual(result1['l'], [2, 3]);
-assertArraysEqual(result1['o'], [4]);
+// const result1 = letterPositions('hello');
+//
+// assertArraysEqual(result1['h'], [0]);
+// assertArraysEqual(result1['e'], [1]);
+// assertArraysEqual(result1['l'], [2, 3]);
+// assertArraysEqual(result1['o'], [4]);
