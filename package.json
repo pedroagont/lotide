@@ -1,0 +1,19 @@
+{
+  "name": "lotide",
+  "version": "1.0.0",
+  "description": "Lodash clone for educational purposes",
+  "main": "index.js",
+  "author": "Pedro A. González",
+  "license": "ISC",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "lodash",
+    "clone"
+  ],
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.0.0"
+  }
+}
