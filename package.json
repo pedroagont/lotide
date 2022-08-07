@@ -1,9 +1,9 @@
 {
-  "name": "lotide",
+  "name": "@pedroagont/lotide",
   "version": "1.0.0",
-  "description": "Lodash clone for educational purposes",
+  "description": "A mini clone of the Lodash library for educational purposes",
   "main": "index.js",
-  "author": "Pedro A. González",
+  "author": "Pedro A. González <pgonzalez@post.com> (https://pedroagont.com/)",
   "license": "ISC",
   "scripts": {
     "test": "mocha"
